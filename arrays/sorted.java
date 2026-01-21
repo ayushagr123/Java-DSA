@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class sorted {
    public static boolean isSorted(ArrayList<Integer> nums) {
     boolean isSort = true;
